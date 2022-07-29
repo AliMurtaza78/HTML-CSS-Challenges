@@ -223,3 +223,13 @@ footer {
 .paragraph-1{
   line-height: 1.5em;
 }
+.wolves {
+  background-color: rgba(45, 52, 0, 0.953);
+  color: #fff01c;
+  font-size:1em;
+  line-height:1.2em;
+  margin-block-end: 1em;
+}
+.wolves h2 {
+  color: #ffbf00d9;
+}
